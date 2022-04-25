@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vuonghalyn
-- 👀 I’m interested in photography, singing.
+- 👀 I’m interested in photography, latin dance (Salsa, Bachata, Kizomba) and singing.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on building websites.
 - 📫 How to reach me IG: lynlishphotography
