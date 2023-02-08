@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lyn.
 - 👀 I’m interested in photography, latin dance (Salsa, Bachata, Kizomba) and singing.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently working as a Graphics Developer.
 - 💞️ I’m looking to collaborate on building websites.
 - 📫 How to reach me IG: lynlishphotography
 
