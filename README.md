@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Lyn.
-- 👀 I’m interested in photography, latin dance (Salsa, Bachata, Kizomba) and singing.
-- 🌱 I’m currently working as a Salesforce Developer and I have experience as a Graphics Developer.
-- 💞️ I’m looking to collaborate on building websites.
+- 👋 Hi, I’m Lyn, a Salesforce Developer with experience as a Graphics Developer.
+- 📌 Techstack: MERN stack, Apex, AWS. 
+- 🌱 I’m interested in photography, Latin dance (Salsa, Bachata, Kizomba) and singing.
+- 👀  I’m open to collaboration on building websites.
 - 📫 How to reach me IG: lynlishphotography
+- 📝 LinkedIn: https://www.linkedin.com/in/lynvuong/ 
 
 <!---
 vuonghalyn/vuonghalyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
